@@ -1,0 +1,37 @@
+
+body{
+	text-align: center !important;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+#box{
+    background-color: #f5f5f5;
+    border-radius: 1rem;
+    width: 450px;
+    height: fit-content;
+    
+}
+#body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+#input{
+    border-radius: 2rem;
+    padding: 2rem;
+    width: 375px;
+    margin-left: 37.5px;
+    margin-right: 37.5px;
+}
+
