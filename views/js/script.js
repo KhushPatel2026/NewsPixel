@@ -23,7 +23,7 @@ menuBtn.addEventListener("click",()=>{
 //render news 
 function renderMain(arr){
     let mainHTML = ''
-    for(let i = getRandomInt(0,10) ; i < arr.length ;i++){
+    for(let i = getRandomInt(0,25) ; i < arr.length ;i++){
         if(arr[i].urlToImage){
         mainHTML += ` <div class="card">
                         <a href=${arr[i].url}>

@@ -35,3 +35,7 @@ input{
     margin-right: 37.5px;
 }
 
+#aa{
+    font-weight: 800;
+    cursor: pointer;
+}

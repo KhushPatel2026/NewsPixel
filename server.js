@@ -13,7 +13,7 @@ main().then(()=>{
 }).catch(err => console.log(err));
 
 async function main() {
-await mongoose.connect('mongodb://127.0.0.1:27017/chatapp');
+await mongoose.connect('mongodb+srv://khushpatel3482:xsAEIHCAlSELgiy4@cluster0.bonxx7y.mongodb.net/test');
 }
 
 
